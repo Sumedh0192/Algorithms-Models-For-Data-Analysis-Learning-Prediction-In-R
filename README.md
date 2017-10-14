@@ -8,4 +8,4 @@ Implementation:
 * Jupyter Python 3 notebooks have been used to execute the code.
 * Data Classification/Clustering models like Linear Regression, KNN and K-Means have been implemented on given data.
 
-Project Description Link: https://github.com/Sumedh0192/Data-Mining-and-Computing/blob/master/Data-Analysis-Clustering-Visualization/Project-Description.pdf
+Project Description Link: https://github.com/Sumedh0192/Algorithms-Models-For-Data-Analysis-Learning-Prediction-In-R/blob/master/Project-Description.pdf
